@@ -71,7 +71,7 @@ streamlit run food_dashboard.py
 
 ## 📷 Sample Dashboard Screenshot
 
-> *(Insert a screenshot here after running the dashboard)*
+![Dashboard Screenshot](dashboard.png)
 
 ---
 
