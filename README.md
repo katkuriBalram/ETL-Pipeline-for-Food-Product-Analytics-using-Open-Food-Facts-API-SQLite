@@ -96,7 +96,7 @@ streamlit run food_dashboard.py
 ## 👤 Author
 
 **Katkuri Balram**  
-📫 [LinkedIn](https://www.linkedin.com/in/katkuri-balram) | 📂 [Portfolio](#) | 💻 [GitHub](https://github.com/KatkuriBalram)
+📫 [LinkedIn](www.linkedin.com/in/katkuri-balram-143284248) | 📂 [Portfolio](https://katkuribalram.github.io/portfolio/) | 💻 [GitHub](https://github.com/KatkuriBalram)
 
 ---
 
