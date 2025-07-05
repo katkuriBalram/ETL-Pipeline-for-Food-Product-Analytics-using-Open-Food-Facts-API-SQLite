@@ -20,7 +20,6 @@ This project demonstrates a complete **ETL (Extract, Transform, Load)** pipeline
 ├── food_etl.py              # Python script to run ETL pipeline
 ├── food_dashboard.py        # Streamlit dashboard application
 ├── openfoodfacts_products.db # SQLite database generated after ETL
-├── requirements.txt         # Python dependencies
 └── README.md                # This file
 ```
 
@@ -45,14 +44,6 @@ cd food-etl-dashboard
 ```
 
 ### 2. Install dependencies
-```bash
-pip install -r requirements.txt
-```
-
-Or manually:
-```bash
-pip install pandas requests streamlit
-```
 
 ### 3. Run ETL Script
 ```bash
